@@ -37,7 +37,7 @@
 - Comparamos maquetar un botón con muchas clases vs crear una directiva que incluya todos los estilos
 - Nos peleamos con la directiva @apply para entenderla y crear nuevas utilidades
 - Commits:
-    - [Episodio #3](https://github.com/durancristhian/tailwind-cremonatv/commit/)
+    - [Episodio #3](https://github.com/durancristhian/tailwind-cremonatv/commit/814eb5b6001d2fe9c73a20aa562f1250cc11c114)
 
 [![Episodio 3](https://img.youtube.com/vi/srhKHYmqr8E/0.jpg)](https://www.youtube.com/watch?v=srhKHYmqr8E)
 
