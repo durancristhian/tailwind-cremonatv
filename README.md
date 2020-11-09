@@ -32,6 +32,15 @@
 
 [![Episodio 2](https://img.youtube.com/vi/xyLnuUlfOKE/0.jpg)](https://www.youtube.com/watch?v=xyLnuUlfOKE)
 
+## Episodio 3 - Jueves 5/11/2020
+
+- Comparamos maquetar un botón con muchas clases vs crear una directiva que incluya todos los estilos
+- Nos peleamos con la directiva @apply para entenderla y crear nuevas utilidades
+- Commits:
+    - [Episodio #3](https://github.com/durancristhian/tailwind-cremonatv/commit/)
+
+[![Episodio 3](https://img.youtube.com/vi/srhKHYmqr8E/0.jpg)](https://www.youtube.com/watch?v=srhKHYmqr8E)
+
 ## Links interesantes
 
 - [Cheat Sheet de Tailwind](https://nerdcave.com/tailwind-cheat-sheet)
