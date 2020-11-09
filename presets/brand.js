@@ -1,12 +1,12 @@
 module.exports = {
   presets: [require('tailwindcss/defaultConfig')],
   theme: {
-    colors: {
+    /* colors: {
       red: {
         clarito: 'brown',
         oscuro: 'green',
       },
-    },
+    }, */
     extend: {
       colors: {
         cris: 'blue',
